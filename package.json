@@ -1,0 +1,48 @@
+{
+  "name": "eleventy-plugin-mtos",
+  "version": "0.1.0",
+  "description": "A plugin for Eleventy that turns your docs into a single page application.",
+  "main": "dist/index.js",
+  "homepage": "https://github.com/voorjaar/eleventy-plugin-mtos",
+  "exports": {
+    ".": "./dist/index.js",
+    "./package.json": "./package.json"
+  },
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "dev": "rollup -cw --bundleConfigAsCjs",
+    "build": "rollup -c --bundleConfigAsCjs"
+  },
+  "keywords": [
+    "eleventy",
+    "eleventy-plugin",
+    "11ty",
+    "plugin",
+    "mtos",
+    "spa",
+    "mpa"
+  ],
+  "author": "Raven Satir",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/voorjaar/eleventy-plugin-mtos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/voorjaar/eleventy-plugin-mtos/issues"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^23.0.2",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "@rollup/plugin-replace": "^5.0.1",
+    "@types/node": "^18.11.9",
+    "mtos": "0.7.2",
+    "rollup": "^3.2.5",
+    "rollup-plugin-delete": "^2.0.0",
+    "rollup-plugin-typescript2": "^0.34.1",
+    "typescript": "^4.8.4"
+  }
+}
