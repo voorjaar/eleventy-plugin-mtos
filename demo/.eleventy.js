@@ -122,7 +122,7 @@ module.exports = function (eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
 
     // Optional (default is shown)
-    pathPrefix: "/",
+    pathPrefix: "/eleventy-plugin-mtos/",
     // -----------------------------------------------------------------
 
     // These are all optional (defaults are shown):

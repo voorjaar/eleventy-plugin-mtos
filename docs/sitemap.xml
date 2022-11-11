@@ -2,67 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/posts/firstpost/</loc>
     <lastmod>2018-05-01</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/thirdpost/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/posts/thirdpost/</loc>
     <lastmod>2018-08-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/fourthpost/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/about/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/posts/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/page-list/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/another-tag/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/second-tag/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/second-tag/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/another-tag/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/number-2/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/posts-with-two-tags/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/number-2/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
 </urlset>
