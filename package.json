@@ -1,7 +1,7 @@
 {
   "name": "eleventy-plugin-mtos",
-  "version": "0.1.0",
-  "description": "A plugin for Eleventy that turns your docs into a single page application.",
+  "version": "0.1.1",
+  "description": "A plugin for Eleventy that turns your site into a single page application.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "homepage": "https://github.com/voorjaar/eleventy-plugin-mtos",
