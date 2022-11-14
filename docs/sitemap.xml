@@ -47,22 +47,22 @@
   </url>
   
   <url>
-    <loc>https://example.com/eleventy-plugin-mtos/tags/second-tag/</loc>
-    <lastmod>2022-11-11</lastmod>
-  </url>
-  
-  <url>
     <loc>https://example.com/eleventy-plugin-mtos/tags/another-tag/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/eleventy-plugin-mtos/tags/posts-with-two-tags/</loc>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/second-tag/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/eleventy-plugin-mtos/tags/number-2/</loc>
+    <lastmod>2022-11-11</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/eleventy-plugin-mtos/tags/posts-with-two-tags/</loc>
     <lastmod>2022-11-11</lastmod>
   </url>
 </urlset>
